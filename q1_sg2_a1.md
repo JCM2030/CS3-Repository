@@ -44,5 +44,6 @@ Divide the purchasing process into multiple, discrete checkpoints. This may incl
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
+<img width="1414" height="2000" alt="Start" src="https://github.com/user-attachments/assets/50c77d7a-266a-40dd-b6bd-54982f7e9210" />
 
 
