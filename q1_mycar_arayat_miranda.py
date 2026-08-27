@@ -10,7 +10,7 @@ class Car:
         print("You have travelled",distance,"km")
         print("Your",self.brand,self.model,"has",self.battery,"wH left")
     def charge(self,wH):
-        slef.battery = self. battery + wH
+        self.battery = self. battery + wH
         print("You charged",wH,"wH")
         print("Your",self.brand,self.model,"has",self.battery,"wH left")
 
