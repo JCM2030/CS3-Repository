@@ -3,7 +3,7 @@ Class Number 09
 Jonas C. Miranda
 9 - Arayat
 ## SAMPLE CODES
-car https://github.com/JCM2030/CS3-Repository/blob/main/q1_mycar_arayat_miranda.py
+car https://github.com/JCM2030/CS3-Repository/blob/main/q1_mycar_arayat_miranda.py  
 tusoktusok
 ## FAs
 FA1 https://github.com/JCM2030/CS3-Repository/blob/main/q1_sg2_a1.md  
