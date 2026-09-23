@@ -13,4 +13,4 @@ FA3 in khub
 FA4 in khub  
 FA5 https://github.com/JCM2030/CS3-Repository/blob/main/q1_sg5_a1_arayat_miranda.py  
 FA6 https://github.com/JCM2030/CS3-Repository/blob/main/q1_sg6_arayat_miranda.py  
-FA7 
+FA7 https://github.com/JCM2030/CS3-Repository/blob/main/tusok_tusok_samplecode.py
